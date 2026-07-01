@@ -8,7 +8,7 @@ The rule the piece lands on: **falsify what is open, validate what is closed.** 
 
 ## Contents
 
-- `falsification-vs-validation.html` — the full article. Self-contained: styles and content are inline, no build step, no dependencies.
+- `index.html` — the full article. Self-contained: styles and content are inline, no build step, no dependencies.
 
 ## Viewing
 
@@ -16,7 +16,7 @@ Open `falsification-vs-validation.html` in any browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8000
-# then visit http://localhost:8000/falsification-vs-validation.html
+# then visit http://localhost:8000
 ```
 
 ## Notes
